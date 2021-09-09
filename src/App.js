@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
-import DisplayWeather from './components/DisplayWeather';
+import GetWeather from './components/GetWeather';
 
 function App() {
 
   return (
     <div className="App">
-      <DisplayWeather />
+      <GetWeather />
     </div>
   );
 }
